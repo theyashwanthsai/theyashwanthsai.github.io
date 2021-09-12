@@ -12,4 +12,4 @@ Hello world
 
 
 
-learning git
+Learning git
