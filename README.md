@@ -12,4 +12,14 @@ Hello world
 
 
 
-Learning git
+Learning git, dsa, core cs, machine learning.
+
+
+
+
+
+
+
+
+
+also trying to contribute to open source while learning.
