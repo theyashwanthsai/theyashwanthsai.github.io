@@ -22,4 +22,4 @@ Learning git, dsa, core cs, machine learning.
 
 
 
-also trying to contribute to open source while learning.
+Also trying to contribute to open source while learning.
